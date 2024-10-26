@@ -1,0 +1,34 @@
+*{
+    color: #553d67;
+}
+img{
+    height: 250px;
+}
+.bd{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.bx{
+    margin-top: 70px;
+    background-color: #3feee6;
+    padding: 30px;
+    border-radius: 30px;
+}
+.city{
+ border-radius: 30px;
+ height: 30px;
+ border-color: white;
+}
+.sb{
+    background-color: #553d67;
+    height: 30px;
+    color: #3feee6;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.s{
+ display: flex;
+}
